@@ -144,3 +144,5 @@ options:
 
 ## Support my work
 <a href='https://www.youtube.com/channel/UCwgpdTScSd788qILhLnyyyw/join' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://share.leagueofporo.com/yt_member.png' border='0' alt='Become a channel member on YouTube' />
+
+(League of Poro's Youtube Channel, not me `bhbghghbgb`)
