@@ -1,0 +1,11 @@
+version: 1.1
+
+delay: 600
+delay_rng_above: 333
+delay_rng_below: 33
+# session_dir: "/dev/shm/capfamucsession"
+headless: true               # set to true to run the browser in the background; autologin needs to be enabled
+autologin:
+  enable: true               # set to true to enable automatic login
+  username: username
+  password: password
